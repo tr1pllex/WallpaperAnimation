@@ -4,6 +4,8 @@
 ## About
 WallpaperAnimation is a software that is designed to be an alternative to static wallpaper on your desktop and make an animated desktop possible.
 
+- Has support for multiple monitors.
+
 ## Video Format Support\*
 
 * video/mp4 .mp4
