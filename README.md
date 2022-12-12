@@ -17,4 +17,4 @@ WallpaperAnimation is a software that is designed to be an alternative to static
 
 ## Preview
 
-https://github.com/tr1pllex/WallpaperAnimation/blob/master/resource/Preview.mp4
+![](https://github.com/tr1pllex/WallpaperAnimation/blob/master/resource/Preview.mp4)
